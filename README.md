@@ -1,2 +1,2 @@
 # hello-world
-an example
+Hi,this is a copy of master.
